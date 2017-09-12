@@ -29,6 +29,7 @@ public class StudentGroup implements StudentArrayOperation {
 	public Student[] getStudents() {
 		// Add your implementation here
 		return students;
+		
 	}
 
 	@Override
